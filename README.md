@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Bem-vindo ao meu perfil no GitHub.<br>Meu nome é Gustavo e aqui você pode encontrar os projetos em que estou trabalhando.<br>Atualmente, meu foco principal é aprender C# e banco de dados, enquanto também aprimoro minhas habilidades em HTML, CSS, JavaScript, React e Node.<br>Sinta-se à vontade para explorar meus repositórios!</h1>
+<h1 align="left">Olá! Bem-vindo ao meu perfil no GitHub.<br>Meu nome é Gustavo e aqui você pode encontrar os projetos em que estou trabalhando.<br>Atualmente, meu foco principal é aprender C# e banco de dados, enquanto também aprimoro minhas habilidades em HTML, CSS, JavaScript, React e Node.<br>Sinta-se à vontade para explorar meus repositórios!</h1>
 
 ###
 
