@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">Meu nome é Gustavo Venâncio Fonseca, tenho 20 anos e sou um desenvolvedor em formação apaixonado por tecnologia. Aqui você encontra os projetos em que estou trabalhando e um pouco da minha evolução na área.<br><br>👨‍💻 Sobre mim<br>🎓 Sou estudante do 3º período de Análise e Desenvolvimento de Sistemas na PUC Minas.<br>🎯 Atualmente, estou terminando meus estudos em JavaScript (incluindo manipulação de DOM) para, em seguida, focar 100% no ecossistema C#.<br>🗄️ Tenho estudado bancos de dados, explorando tanto estruturas relacionais quanto NoSQL, como o MongoDB.<br>🚀 Trabalhando ativamente no desenvolvimento do ClearMind, uma aplicação interdisciplinar universitária.<br>🔎 Estou em busca da minha primeira oportunidade de estágio na área de tecnologia!</p>
+<p data-importer="text" align="left">Meu nome é Gustavo Venâncio Fonseca, tenho 20 anos e sou um desenvolvedor em formação apaixonado por tecnologia. Aqui você encontra os projetos em que estou trabalhando e um pouco da minha evolução na área.<br><br>👨‍💻 Sobre mim<br>🎓 Sou estudante do 3º período de Análise e Desenvolvimento de Sistemas na PUC Minas.<br>🎯 Atualmente, estou terminando meus estudos em JavaScript (incluindo manipulação de DOM) para, em seguida, focar 100% no ecossistema C#.<br>🗄️ Tenho estudado bancos de dados, explorando tanto estruturas relacionais quanto NoSQL, como o MongoDB.🔎 Estou em busca da minha primeira oportunidade de estágio na área de tecnologia!</p>
 
 ###
 
