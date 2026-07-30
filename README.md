@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhiM2tzMTlkOXlzNnNpcGE5ZThkbzE2ODEyMDdyeWVtbWI3NmVpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gifhttps://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhiM2tzMTlkOXlzNnNpcGE5ZThkbzE2ODEyMDdyeWVtbWI3NmVpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img data-importer="image" align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhiM2tzMTlkOXlzNnNpcGE5ZThkbzE2ODEyMDdyeWVtbWI3NmVpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
@@ -17,8 +17,8 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/GustavoFonsecaaaa/GustavoFonsecaaaa/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/GustavoFonsecaaaa/GustavoFonsecaaaa/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoFonsecaaaa&show_icons=true&hide_rank=true&theme=rose_pine&locale=pt-br" height="150" alt="Estatísticas do GitHub"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoFonsecaaaa&layout=compact&langs_count=5&theme=dracula" height="150" alt="Linguagens mais usadas"  />
 </div>
 
 ###
@@ -55,7 +55,7 @@
   <a href="https://www.instagram.com/gustavo.fonseca1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="gustavofonseca0822@gmail.com" target="_blank">
+  <a href="mailto:gustavofonseca0877@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/gustavovenanciofonseca/" target="_blank">
@@ -67,12 +67,8 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/GustavoFonsecaaaa/GustavoFonsecaaaa/snake-output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-
-###
